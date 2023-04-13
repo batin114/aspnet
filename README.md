@@ -1,1 +1,2 @@
-# aspnet![asdddddddddddddddda](https://user-images.githubusercontent.com/119483460/231628970-ed91d36e-4e0a-4699-8b49-4d41d36f3f7b.png)
+
+![Ortalamatik-Mvc-Db](https://user-images.githubusercontent.com/119483460/231629524-c54ccba0-0531-45ea-9d78-a1f72d178212.png)
